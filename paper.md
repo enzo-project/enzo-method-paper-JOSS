@@ -51,7 +51,7 @@ In addition, there are a much larger number of code enhancements and bug fixes. 
 Enzo is used extensively in the astrophysics research community.  A few recent notable research areas that have benefited from the use of Enzo include:
 
 * Exploration of galaxy formation in the early universe [@SmithPop2Prime2015, @OSheaLuminosity2015, @WiseNature2019] 
-* High resolution examination of the circumgalactic medium around Milky Way-like galaxies [@SalemCRCGM2016, @PeeplesFOGGIE2019]
+* High resolution examination of the circumgalactic medium around Milky Way-like galaxies [@SalemCRCGM2016, @PeeplesFOGGIE2019, @HummelsTempest2019]
 * The impact of supermassive black holes on the regulation of galaxy cluster cores [@LiAGN2017, @MeeceAGN2017]
 * Astrophysical turbulence [@GreteSGS2017, @KritsukTurb2018]
 * Star formation, both in a primordial context and in a Milky Way-type environment [@TurkPopIIIbinary2009, @BurkhartMolCloud2017]
