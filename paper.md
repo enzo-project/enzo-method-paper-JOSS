@@ -9,7 +9,7 @@ authors:
    orcid: 
    affiliation: "1, 2"
  - name: Brian O'Shea
-   orcid: 0000-0003-0872-7098
+   orcid: 0000-0002-2786-0348
    affiliation: 3
 affiliations:
  - name: Columbia University
