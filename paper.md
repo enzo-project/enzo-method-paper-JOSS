@@ -14,6 +14,9 @@ authors:
  - name: John H. Wise
    orcid: 0000-0003-1173-8847
    affiliation: 4
+ - name: Andrew Emerick
+   orcid: 0000-0003-2807-328X
+   affiliation: "1, 5"
 affiliations:
  - name: Columbia University
    index: 1
@@ -23,6 +26,8 @@ affiliations:
  index: 3
  - name: Georgia Institute of Technology
  index: 4
+ - name: American Museum of Natural History
+ index: 5
  
 date: 17 July 2019
 bibliography: paper.bib
@@ -79,6 +84,8 @@ AST-1614333 (JHW),
 AST-1615848 (BDS, MLN), 
 PHY-1430152 (BWO), 
 OAC-1835213 (GB, MLN, BWO, JHW),  
+NSF Graduate Research Fellowship DGE 16-44869 (AE),
+Blue Waters Graduate Fellowship (AE),
 DOE grants ..., 
 Michigan State University internal funding (BWO), 
 the Los Alamos National Laboratory Institute for Geophysics and Planetary Physics (BWO), 
