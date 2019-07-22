@@ -64,6 +64,24 @@ Enzo is used extensively in the astrophysics research community.  A few recent n
 
 # Acknowledgments
 
-The development of Enzo has been funded from a wide variety of sources.  The Enzo method paper [@EnzoMethodPaper2014] enumerates support through 2014.  Since then, Enzo development has been funded by NASA grants NNX15AP39G (BWO), NNX17AG23G (JHW), HST-AR-13261.01-A (BWO), HST-AR-13895 (JHW), HST-AR-14315.001-A (BWO), HST-AR-14326 (JHW), HST-AR-15012 (LC/MP), NSF grants AST-1333360 (JHW), AST-1514700 (BWO), AST-1517908 (BWO, MP), AST-1614333 (JHW), AST-1615848 (BDS, MLN), PHY-1430152 (BWO), OAC-1835213 (GB, MLN, BWO, JHW),  DOE grants ..., Michigan State University internal funding (BWO), the Los Alamos National Laboratory Institute for Geophysics and Planetary Physics (BWO), ...
+The development of Enzo has been funded from a wide variety of sources.  The Enzo method paper [@EnzoMethodPaper2014] enumerates support through 2014.  Since then, Enzo development has been funded by 
+NASA grants NNX15AP39G (BWO),
+NNX17AG23G (JHW), 
+HST-AR-13261.01-A (BWO), 
+HST-AR-13895 (JHW), 
+HST-AR-14315.001-A (BWO), 
+HST-AR-14326 (JHW), 
+HST-AR-15012 (LC/MP), 
+NSF grants AST-1333360 (JHW), 
+AST-1514700 (BWO), 
+AST-1517908 (BWO, MP), 
+AST-1614333 (JHW), 
+AST-1615848 (BDS, MLN), 
+PHY-1430152 (BWO), 
+OAC-1835213 (GB, MLN, BWO, JHW),  
+DOE grants ..., 
+Michigan State University internal funding (BWO), 
+the Los Alamos National Laboratory Institute for Geophysics and Planetary Physics (BWO), 
+...
 
 # References
