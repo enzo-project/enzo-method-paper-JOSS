@@ -14,6 +14,16 @@ authors:
  - name: John H. Wise
    orcid: 0000-0003-1173-8847
    affiliation: 4
+ - name: Lauren Corlies
+   orcid: 0000-0002-0646-1540
+   affiliation: "5, 6"
+ - name: Molly S. Peeples
+   orcid: 0000-0003-1455-8788
+   affiliation: "5, 7"
+ - name: Jason Tumlinson
+   orcid: 0000-0002-7982-412X
+   affiliation: "5, 7"
+
 affiliations:
  - name: Columbia University
    index: 1
@@ -23,6 +33,13 @@ affiliations:
  index: 3
  - name: Georgia Institute of Technology
  index: 4
+  - name: Johns Hopkins University
+ index: 5
+  - name: Large Synoptic Survey Telescope
+ index: 6
+   - name: Space Telescope Science Institute
+ index: 7
+
  
 date: 17 July 2019
 bibliography: paper.bib
@@ -71,10 +88,10 @@ HST-AR-13261.01-A (BWO),
 HST-AR-13895 (JHW), 
 HST-AR-14315.001-A (BWO), 
 HST-AR-14326 (JHW), 
-HST-AR-15012 (LC/MP), 
+HST-AR-15012 (LC), 
 NSF grants AST-1333360 (JHW), 
 AST-1514700 (BWO), 
-AST-1517908 (BWO, MP), 
+AST-1517908 (BWO, MSP, LC, JT), 
 AST-1614333 (JHW), 
 AST-1615848 (BDS, MLN), 
 PHY-1430152 (BWO), 
