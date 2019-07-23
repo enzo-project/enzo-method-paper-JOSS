@@ -66,15 +66,15 @@ The code is Cartesian, can be run in one, two, and three dimensions, and support
 
 Enzo's original method paper [@EnzoMethodPaper2014] was published in 2014, and documented Version 2.3.  This paper describes Enzo's most recent public release, Version 2.6 (released on July XX, 2019; see [@EnzoReleaseNotes]).  Since Version 2.3, there have been several new features added to the code:
 
-* Support for the Grackle chemistry and cooling library
-* Several new types of adaptive mesh refinement algorithms 
-* Cosmic ray pressure, diffusion, and injection
-* A stochastic forcing module (for driven turbulence calculations)
+* Support for the Grackle chemistry and cooling library [@SmithGrackle2017]
+* Several new types of adaptive mesh refinement algorithms [@PeeplesFOGGIE2019]
+* Cosmic ray pressure, diffusion, and injection [@SalemCRs2014]
+* A stochastic forcing module (for driven turbulence calculations) [@SchmidtDrivenTurbulence2009]
 * A subgrid-scale turbulence modeling framework
-* Kinetic supernova feedback 
-* Magnetic supernova feedback
-* An "active particle" framework for complex particle types
-* Fuzzy dark matter evolution  
+* Kinetic supernova feedback [@SimpsonKineticSN2015]
+* Magnetic supernova feedback [@ButskyMagneticSN2017]
+* An "active particle" framework for complex particle types [@MeeceAGN2017]
+* Fuzzy dark matter evolution [@LiFuzzyDM2019]
 * Many new code test problems
 * Automated regression testing on GitHub with CircleCI
 
