@@ -70,7 +70,7 @@ Enzo's original method paper [@EnzoMethodPaper2014] was published in 2014, and d
 * Several new types of adaptive mesh refinement algorithms [@PeeplesFOGGIE2019]
 * Cosmic ray pressure, diffusion, and injection [@SalemCRs2014]
 * A stochastic forcing module (for driven turbulence calculations) [@SchmidtDrivenTurbulence2009]
-* A subgrid-scale turbulence modeling framework
+* A subgrid-scale turbulence modeling framework [@GreteSGS2017]
 * Kinetic supernova feedback [@SimpsonKineticSN2015]
 * Magnetic supernova feedback [@ButskyMagneticSN2017]
 * An "active particle" framework for complex particle types [@MeeceAGN2017]
