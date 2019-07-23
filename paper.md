@@ -14,6 +14,9 @@ authors:
  - name: John H. Wise
    orcid: 0000-0003-1173-8847
    affiliation: 4
+ - name: Andrew Emerick
+   orcid: 0000-0003-2807-328X
+   affiliation: "1, 10"
  - name: Britton D. Smith
    orcid: 0000-0002-6804-630X
    affiliation: 9
@@ -31,7 +34,7 @@ authors:
    affiliation: "5, 7"
 affiliations:
  - name: Columbia University
-   index: 1
+ index: 1
  - name: Center for Computational Astrophysics
  index: 2
  - name: Michigan State University
@@ -48,7 +51,9 @@ affiliations:
  index: 8
    - University of Edinburgh
  index: 9 
- 
+   - name: American Museum of Natural History
+ index: 10
+  
 bibliography: paper.bib
 ---
 
@@ -103,6 +108,8 @@ AST-1614333 (JHW),
 AST-1615848 (BDS, MLN), 
 PHY-1430152 (BWO), 
 OAC-1835213 (GB, MLN, BWO, JHW),  
+NSF Graduate Research Fellowship DGE 16-44869 (AE),
+Blue Waters Graduate Fellowship (AE),
 DOE grants ..., 
 Michigan State University internal funding (BWO), 
 the Los Alamos National Laboratory Institute for Geophysics and Planetary Physics (BWO), 
