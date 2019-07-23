@@ -14,6 +14,12 @@ authors:
  - name: John H. Wise
    orcid: 0000-0003-1173-8847
    affiliation: 4
+ - name: Britton D. Smith
+   orcid: 0000-0002-6804-630X
+   affiliation: University of Edinburgh
+ - name: Cameron B. Hummels
+   orcid: 0000-0002-3817-8133
+   affiliation: California Institute of Technology
 affiliations:
  - name: Columbia University
    index: 1
