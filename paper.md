@@ -14,6 +14,12 @@ authors:
  - name: John H. Wise
    orcid: 0000-0003-1173-8847
    affiliation: 4
+ - name: Britton D. Smith
+   orcid: 0000-0002-6804-630X
+   affiliation: 9
+ - name: Cameron B. Hummels
+   orcid: 0000-0002-3817-8133
+   affiliation: 8
  - name: Lauren Corlies
    orcid: 0000-0002-0646-1540
    affiliation: "5, 6"
@@ -23,7 +29,6 @@ authors:
  - name: Jason Tumlinson
    orcid: 0000-0002-7982-412X
    affiliation: "5, 7"
-
 affiliations:
  - name: Columbia University
    index: 1
@@ -39,9 +44,11 @@ affiliations:
  index: 6
    - name: Space Telescope Science Institute
  index: 7
-
+   - name: California Institute of Technology
+ index: 8
+   - University of Edinburgh
+ index: 9 
  
-date: 17 July 2019
 bibliography: paper.bib
 ---
 
