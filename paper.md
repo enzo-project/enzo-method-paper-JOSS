@@ -49,7 +49,7 @@ affiliations:
  index: 7
    - name: California Institute of Technology
  index: 8
-   - University of Edinburgh
+   - name: University of Edinburgh
  index: 9 
    - name: American Museum of Natural History
  index: 10
