@@ -73,7 +73,7 @@ Enzo's original method paper [@EnzoMethodPaper2014] was published in 2014, and d
 * A subgrid-scale turbulence modeling framework [@GreteSGS2017]
 * Kinetic supernova feedback [@SimpsonKineticSN2015]
 * Magnetic supernova feedback [@ButskyMagneticSN2017]
-* An "active particle" framework for complex particle types [@MeeceAGN2017]
+* An "active particle" framework for complex particle types [@MeeceAGN2017; @ReganRiseSMS2018]
 * Fuzzy dark matter evolution [@LiFuzzyDM2019]
 * Many new code test problems
 * Automated regression testing on GitHub with CircleCI
@@ -84,13 +84,13 @@ In addition, there are a much larger number of code enhancements and bug fixes. 
 
 Enzo is used extensively in the astrophysics research community.  A few recent notable research areas that have benefited from the use of Enzo include:
 
-* Exploration of galaxy formation in the early universe [@SmithPop2Prime2015, @OSheaLuminosity2015, @WiseNature2019] 
+* Exploration of galaxy formation in the early universe [@SmithPop2Prime2015; @OSheaLuminosity2015; @WiseNature2019] 
 * Reionization of the universe [@NormanReion2018]
-* High resolution examination of the circumgalactic medium around Milky Way-like galaxies [@SalemCRCGM2016, @PeeplesFOGGIE2019]
-* The impact of supermassive black holes on the regulation of galaxy cluster cores [@LiAGN2017, @MeeceAGN2017]
-* Astrophysical turbulence [@GreteSGS2017, @KritsukTurb2018]
-* Star formation, both in a primordial context and in a Milky Way-type environment [@BurkhartMolCloud2017, @ChiakiPop3to2_2019]
-* ... others ...
+* High resolution examination of the circumgalactic medium around Milky Way-like galaxies [@SalemCRCGM2016; @PeeplesFOGGIE2019]
+* The impact of supermassive black holes on the regulation of galaxy cluster cores [@LiAGN2017; @MeeceAGN2017]
+* Astrophysical turbulence [@GreteSGS2017; @KritsukTurb2018]
+* Star formation, both in a primordial context and in a Milky Way-type environment [@BurkhartMolCloud2017; @ChiakiPop3to2_2019]
+* The interstellar medium and its effect on galaxy behavior [@FujimotoGCM2016; @LiISM2017; @GoldbaumDiskGalaxies2016]
 
 # Acknowledgments
 
@@ -112,7 +112,7 @@ OAC-1835213 (GB, MLN, BWO, JHW),
 ACI-1516003 (MLN),
 OAC-1810074,
 NSF Graduate Research Fellowship DGE 16-44869 (AE),
-Blue Waters Graduate Fellowship (AE),
+Blue Waters Graduate Fellowship (AE, FG),
 DOE grants ..., 
 Michigan State University internal funding (BWO), 
 the Los Alamos National Laboratory Institute for Geophysics and Planetary Physics (BWO), 
