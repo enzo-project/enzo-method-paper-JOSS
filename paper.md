@@ -32,6 +32,9 @@ authors:
  - name: Jason Tumlinson
    orcid: 0000-0002-7982-412X
    affiliation: "5, 7"
+ - name: Jeffrey S. Oishi
+   orcid: 0000-0001-8531-6570
+   affiliation: "11"
 affiliations:
  - name: Columbia University
  index: 1
@@ -53,6 +56,8 @@ affiliations:
  index: 9 
    - name: American Museum of Natural History
  index: 10
+   - name: Bates College
+ index: 11
   
 bibliography: paper.bib
 ---
