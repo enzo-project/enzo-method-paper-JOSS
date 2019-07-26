@@ -32,6 +32,9 @@ authors:
  - name: Jason Tumlinson
    orcid: 0000-0002-7982-412X
    affiliation: "5, 7"
+ - name: John A. Regan
+   orcid: 
+   affiliation: 11
 affiliations:
  - name: Columbia University
  index: 1
@@ -53,6 +56,8 @@ affiliations:
  index: 9 
    - name: American Museum of Natural History
  index: 10
+   - name: Dublin City University
+ index: 11
   
 bibliography: paper.bib
 ---
@@ -115,7 +120,13 @@ NSF Graduate Research Fellowship DGE 16-44869 (AE),
 Blue Waters Graduate Fellowship (AE, FG),
 DOE grants ..., 
 Michigan State University internal funding (BWO), 
-the Los Alamos National Laboratory Institute for Geophysics and Planetary Physics (BWO), 
+the Los Alamos National Laboratory Institute for Geophysics and Planetary Physics (BWO),
+the Marie Skłodowska-Curie Grant – ‘SMARTSTARS’ – grant number
+699941 (JAR), the 
+Ireland Science and Technology
+Facilities Council through grant numbers ST/L00075X/1 and RF040365 (JAR).
+
 ...
 
 # References
+ 	
