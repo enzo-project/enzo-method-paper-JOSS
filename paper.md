@@ -38,6 +38,10 @@ authors:
  - name: David C. Collins
    orcid: 0000-0001-6661-2243 
    affiliation: 12
+ - name: Jeffrey S. Oishi
+   orcid: 0000-0001-8531-6570
+   affiliation: 13
+
 affiliations:
  - name: Columbia University
  index: 1
@@ -63,6 +67,8 @@ affiliations:
  index: 11
    - name: Florida State University
  index: 12
+   - name: Bates College
+ index: 13
   
 bibliography: paper.bib
 ---
