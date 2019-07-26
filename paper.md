@@ -41,6 +41,10 @@ authors:
  - name: Jeffrey S. Oishi
    orcid: 0000-0001-8531-6570
    affiliation: 13
+ - name: Iryna Butsky
+   orcid: 0000-0003-1257-5007
+   affiliation: 14
+
 
 affiliations:
  - name: Columbia University
@@ -69,6 +73,8 @@ affiliations:
  index: 12
    - name: Bates College
  index: 13
+   - name: University of Washington in Seattle
+ index: 14
   
 bibliography: paper.bib
 ---
@@ -130,7 +136,7 @@ ACI-1516003 (MLN),
  AST-1616026 (DCC), AAG AST-1715133 (DCC), 
 OAC-1810074,
 NSF Graduate Research Fellowship DGE 16-44869 (AE),
-Blue Waters Graduate Fellowship (AE, FG),
+the Blue Waters Graduate Fellowship, which was supported by NSF  grants No. OCI-0725070 and No. ACI-1238993 and the State of Illinois (IB, AE, FG),
 DOE grants ..., 
 Michigan State University internal funding (BWO), 
 the Los Alamos National Laboratory Institute for Geophysics and Planetary Physics (BWO),
