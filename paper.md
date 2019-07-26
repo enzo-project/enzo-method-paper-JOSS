@@ -129,10 +129,7 @@ DOE grants ...,
 Michigan State University internal funding (BWO), 
 the Los Alamos National Laboratory Institute for Geophysics and Planetary Physics (BWO),
 the Marie Skłodowska-Curie Grant – ‘SMARTSTARS’ – grant number
-699941 (JAR), the 
-Ireland Science and Technology
-Facilities Council through grant numbers ST/L00075X/1 and RF040365 (JAR).
-
+699941 (JAR), 
 ...
 
 # References
