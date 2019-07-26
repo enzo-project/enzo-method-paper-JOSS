@@ -32,9 +32,16 @@ authors:
  - name: Jason Tumlinson
    orcid: 0000-0002-7982-412X
    affiliation: "5, 7"
+ - name: John A. Regan
+   orcid: 0000-0001-9072-6427
+   affiliation: 11
+ - name: David C. Collins
+   orcid: 0000-0001-6661-2243 
+   affiliation: 12
  - name: Jeffrey S. Oishi
    orcid: 0000-0001-8531-6570
-   affiliation: "11"
+   affiliation: 13
+
 affiliations:
  - name: Columbia University
  index: 1
@@ -56,8 +63,12 @@ affiliations:
  index: 9 
    - name: American Museum of Natural History
  index: 10
-   - name: Bates College
+   - name: Dublin City University
  index: 11
+   - name: Florida State University
+ index: 12
+   - name: Bates College
+ index: 13
   
 bibliography: paper.bib
 ---
@@ -96,12 +107,13 @@ Enzo is used extensively in the astrophysics research community.  A few recent n
 * Astrophysical turbulence [@GreteSGS2017; @KritsukTurb2018]
 * Star formation, both in a primordial context and in a Milky Way-type environment [@BurkhartMolCloud2017; @ChiakiPop3to2_2019]
 * The interstellar medium and its effect on galaxy behavior [@FujimotoGCM2016; @LiISM2017; @GoldbaumDiskGalaxies2016]
+* Supernova deflagration [@HristovSNDeflagration2018]
 
 # Acknowledgments
 
 The development of Enzo has been funded from a wide variety of sources.  The Enzo method paper [@EnzoMethodPaper2014] enumerates support through 2014.  Since then, Enzo development has been funded by 
 NASA grants NNX15AP39G (BWO),
-NNX17AG23G (JHW), 
+NNX17AG23G (JHW), NNX17AF87G (DCC)
 HST-AR-13261.01-A (BWO), 
 HST-AR-13895 (JHW), 
 HST-AR-14315.001-A (BWO), 
@@ -115,12 +127,16 @@ AST-1615848 (BDS, MLN),
 PHY-1430152 (BWO), 
 OAC-1835213 (GB, MLN, BWO, JHW),  
 ACI-1516003 (MLN),
+ AST-1616026 (DCC), AAG AST-1715133 (DCC), 
 OAC-1810074,
 NSF Graduate Research Fellowship DGE 16-44869 (AE),
 Blue Waters Graduate Fellowship (AE, FG),
 DOE grants ..., 
 Michigan State University internal funding (BWO), 
-the Los Alamos National Laboratory Institute for Geophysics and Planetary Physics (BWO), 
+the Los Alamos National Laboratory Institute for Geophysics and Planetary Physics (BWO),
+the Marie Skłodowska-Curie Grant – ‘SMARTSTARS’ – grant number
+699941 (JAR), 
 ...
 
 # References
+ 	
