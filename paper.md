@@ -5,8 +5,14 @@ tags:
   - astrophysics
   - galaxy formation 
 authors:
- - name: Greg Bryan
-   orcid: 
+
+
+
+
+
+
+- name: Greg Bryan
+   orcid: 0000-0003-2630-9228
    affiliation: "1, 2"
  - name: Brian O'Shea
    orcid: 0000-0002-2786-0348
@@ -50,17 +56,47 @@ authors:
 - name: Matthew J. Turk
    orcid: 0000-0002-5294-0198
    affiliation: 15
+- name: Philipp Grete
+   orcid: 0000-0003-3555-9886
+   affiliation: 16
+- name: Elizabeth Tasker
+   orcid: 0000-0001-6692-612X
+   affiliation: 17
+- name: Ji-hoon Kim
+   orcid: 0000-0003-4464-1160
+   affiliation: 18
+- name: John Forbes
+   orcid: 0000-0002-1975-4449
+   affiliation: 19
+- name: Alexei G. Kritsuk
+   orcid: 0000-0002-6554-1161
+   affiliation: 20
+- name: Christine M. Simpson
+   orcid: 0000-0001-9985-1814
+   affiliation: "21, 22"
+- name: 
+   orcid: 
+   affiliation: 
+- name: 
+   orcid: 
+   affiliation: 
+- name: 
+   orcid: 
+   affiliation: 
+- name: 
+   orcid: 
+   affiliation: 
 
 affiliations:
- - name: Columbia University
+ - name: Dept. of Astronomy, Columbia University
  index: 1
- - name: Center for Computational Astrophysics
+ - name: Center for Computational Astrophysics, Flatiron Institute
  index: 2
- - name: Michigan State University
+ - name: Dept. of Physics and Astronomy, Michigan State University
  index: 3
- - name: Georgia Institute of Technology
+ - name: Center for Relativistic Astrophysics, School of Physics, Georgia Institute of Technology
  index: 4
-  - name: Johns Hopkins University
+  - name: Dept. of Physics and Astronomy, Johns Hopkins University
  index: 5
   - name: Large Synoptic Survey Telescope
  index: 6
@@ -68,27 +104,47 @@ affiliations:
  index: 7
    - name: California Institute of Technology
  index: 8
-   - name: University of Edinburgh
+   - name: Royal Observatory, University of Edinburgh
  index: 9 
    - name: American Museum of Natural History
  index: 10
-   - name: Dublin City University
+   - name: Center for Astrophysics and Relativity, Dublin City University
  index: 11
-   - name: Florida State University
+   - name: Dept. of Physics, Florida State University
  index: 12
-   - name: Bates College
+   - name: Physics and Astronomy, Bates College
  index: 13
-   - name: University of Washington in Seattle
+   - name: Dept. of Astronomy, University of Washington in Seattle
  index: 14
-   - name: University of Illinois, Urbana-Champaign
+   - name: School of Information Sciences, University of Illinois, Urbana-Champaign
  index: 15
-  
+  - name: Department of Computational Mathematics, Science and Engineering, Michigan State University
+ index: 16
+  - name: Japan Aerospace Exploration Agency
+ index: 17
+  - name: Seoul National University, Korea
+ index: 18
+  - name: Center for Astrophysics, Harvard & Smithsonian
+ index: 19
+  - name: Center for Astrophysics and Space Sciences, University of California, San Diego
+ index: 20
+  - name: Enrico Fermi Institute, The University of Chicago
+ index: 21
+  - name: Department of Astronomy & Astrophysics, The University of Chicago
+ index: 22
+  - name: 
+ index: 
+  - name: 
+ index: 
+  - name: 
+ index: 
+
+
+date: 2 August 2019
 bibliography: paper.bib
 ---
 
 # Summary
-
-
 
 Enzo [@EnzoGitRepo] is a block-structured adaptive mesh refinement code that is widely used to simulate astrophysical fluid flows (primarily, but not exclusively, cosmological structure formation, star formation, and turbulence).  The code is a community project with dozens of users, and has contributed to hundreds of peer-reviewed publications in astrophysics, physics, and computer science.
 The code is Cartesian, can be run in one, two, and three dimensions, and supports a wide variety of physics including (magneto)hydrodynamics, the self-gravity of fluids and particles, cosmological expansion, primordial gas chemistry, optically thin radiative plasma cooling, radiation transport, conduction, and models for star formation, stellar feedback, and the feedback from supermassive black holes.
