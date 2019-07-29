@@ -44,7 +44,12 @@ authors:
  - name: Iryna Butsky
    orcid: 0000-0003-1257-5007
    affiliation: 14
-
+ - name: Nathan J. Goldbaum
+   orcid: 0000-0001-5557-267X
+   affiliation: 15
+- name: Matthew J. Turk
+   orcid: 0000-0002-5294-0198
+   affiliation: 15
 
 affiliations:
  - name: Columbia University
@@ -75,6 +80,8 @@ affiliations:
  index: 13
    - name: University of Washington in Seattle
  index: 14
+   - name: University of Illinois, Urbana-Champaign
+ index: 15
   
 bibliography: paper.bib
 ---
