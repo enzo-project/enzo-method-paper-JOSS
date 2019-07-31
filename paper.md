@@ -25,7 +25,7 @@ authors:
    affiliation: 19
  - name: Yusuke Fujimoto
    orchid: 0000-0002-2107-1460
-   affiliation: RSAA, Australian National University
+   affiliation: 34
  - name: Nathan J. Goldbaum
    orcid: 0000-0001-5557-267X
    affiliation: 15
@@ -237,6 +237,8 @@ affiliations:
  index: 32
   - name: Hamburg Observatory, University of Hamburg
  index: 33
+  - name: RSAA, Australian National University
+ index: 34
 date: 2 August 2019
 bibliography: paper.bib
 ---
