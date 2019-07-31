@@ -106,7 +106,7 @@ authors:
    affiliation: 20
  - name: Elizabeth Harper-Clark
    orcid:
-   affiliation: CITA
+   affiliation: 36
  - name: Shuo Kong
    orcid:
    affiliation:
@@ -139,7 +139,7 @@ authors:
    affiliation: 3
  - name: Alex Razoumov
    orcid: 0000-0003-4392-6826
-   affiliation: 
+   affiliation: 35
  - name: Daniel R. Reynolds
    orcid: 0000-0002-0911-7841
    affiliation: 26
@@ -239,6 +239,10 @@ affiliations:
  index: 33
   - name: RSAA, Australian National University
  index: 34
+  - name: Dept. of Astronomy & Physics, Saint Mary’s University, Halifax
+ index: 35
+  - name: Canadian Institute for Theoretical Astrophysics
+ index: 36
 date: 2 August 2019
 bibliography: paper.bib
 ---
