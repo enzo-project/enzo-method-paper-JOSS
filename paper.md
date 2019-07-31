@@ -63,7 +63,7 @@ authors:
    orcid: 0000-0002-0197-526X
    affiliation: 1
  - name: Wolfram Schmidt
-   orcid:
+   orcid: 0000-0001-5233-8087
    affiliation: Hamburg Observatory, University of Hamburg
  - name: Christine M. Simpson
    orcid: 0000-0001-9985-1814
