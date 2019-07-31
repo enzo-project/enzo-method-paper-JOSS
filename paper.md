@@ -1,92 +1,175 @@
 ---
-title: 'ENZO: An Adaptive Mesh Refinement Code for Astrophysics (Version 2.6) '
+title: 'ENZO: An Adaptive Mesh Refinement Code for Astrophysics (Version 2.6)'
 tags:
   - adaptive mesh refinement
   - astrophysics
   - galaxy formation 
 authors:
-
-
-
-
-
-
-- name: Greg Bryan
+ - name: Corey Brummel-Smith
+   orcid: 0000-0001-6204-5181
+   affiliation: 4
+ - name: Greg Bryan
    orcid: 0000-0003-2630-9228
    affiliation: "1, 2"
- - name: Brian O'Shea
-   orcid: 0000-0002-2786-0348
-   affiliation: 3
- - name: John H. Wise
-   orcid: 0000-0003-1173-8847
-   affiliation: 4
- - name: Andrew Emerick
-   orcid: 0000-0003-2807-328X
-   affiliation: "1, 10"
- - name: Britton D. Smith
-   orcid: 0000-0002-6804-630X
-   affiliation: 9
- - name: Cameron B. Hummels
-   orcid: 0000-0002-3817-8133
-   affiliation: 8
+ - name: Iryna Butsky
+   orcid: 0000-0003-1257-5007
+   affiliation: 14
  - name: Lauren Corlies
    orcid: 0000-0002-0646-1540
    affiliation: "5, 6"
+ - name: Andrew Emerick
+   orcid: 0000-0003-2807-328X
+   affiliation: "1, 10"
+ - name: John Forbes
+   orcid: 0000-0002-1975-4449
+   affiliation: 19
+ - name: Yusuke Fujimoto
+   orchid: 0000-0002-2107-1460
+   affiliation: RSAA, Australian National University
+ - name: Nathan J. Goldbaum
+   orcid: 0000-0001-5557-267X
+   affiliation: 15
+ - name: Philipp Grete
+   orcid: 0000-0003-3555-9886
+   affiliation: 16
+- name: Cameron B. Hummels
+   orcid: 0000-0002-3817-8133
+   affiliation: 8
+ - name: Ji-hoon Kim
+   orcid: 0000-0003-4464-1160
+   affiliation: 18
+ - name: Daegene Koh
+   orcid: 0000-0002-3546-5786
+   affiliation: 4
+ - name: Miao Li
+   orcid: 0000-0003-0773-582X
+   affiliation: 2
+ - name: Yuan Li
+   orcid: 0000-0001-5262-6150
+   affiliation: 29
+ - name: Xinyu Li
+   orcid: 0000-0003-0750-3543
+   affiliation: 1
+ - name: Brian O'Shea
+   orcid: 0000-0002-2786-0348
+   affiliation: 3
  - name: Molly S. Peeples
    orcid: 0000-0003-1455-8788
-   affiliation: "5, 7"
- - name: Jason Tumlinson
-   orcid: 0000-0002-7982-412X
    affiliation: "5, 7"
  - name: John A. Regan
    orcid: 0000-0001-9072-6427
    affiliation: 11
+ - name: Munier Salem
+   orcid: 0000-0002-0197-526X
+   affiliation: 1
+ - name: Wolfram Schmidt
+   orcid:
+   affiliation: Hamburg Observatory, University of Hamburg
+ - name: Christine M. Simpson
+   orcid: 0000-0001-9985-1814
+   affiliation: "21, 22"
+ - name: Britton D. Smith
+   orcid: 0000-0002-6804-630X
+   affiliation: 9
+ - name: Jason Tumlinson
+   orcid: 0000-0002-7982-412X
+   affiliation: "5, 7"
+ - name: Matthew J. Turk
+   orcid: 0000-0002-5294-0198
+   affiliation: 15
+ - name: John H. Wise
+   orcid: 0000-0003-1173-8847
+   affiliation: 4
+ - name: Tom Abel
+   orcid: 0000-0002-5969-1251
+   affiliation: "24, 25"
+ - name: James Bordner
+   orcid: 0000-0002-2625-5787
+   affiliation: 20
+ - name: Renyue Cen
+   orcid: 0000-0001-8531-9536
+   affiliation: 27
  - name: David C. Collins
    orcid: 0000-0001-6661-2243 
    affiliation: 12
+ - name: Brian Crosby
+   orcid: 0000-0003-0179-874X
+   affiliation: 3
+ - name: Philipp Edelmann
+   orcid: 0000-0001-7019-9578
+   affiliation: 32
+ - name: Oliver Hahn
+   orcid: 0000-0001-9440-1152
+   affiliation: 31
+ - name: Robert Harkness
+   orcid:
+   affiliation: 20
+ - name: Elizabeth Harper-Clark
+   orcid:
+   affiliation: CITA
+ - name: Shuo Kong
+   orcid:
+   affiliation:
+ - name: Alexei G. Kritsuk
+   orcid: 0000-0002-6554-1161
+   affiliation: 20
+ - name: Michael Kuhlen
+   orcid: 
+   affiliation: 29
+ - name: James Larrue
+   orcid: 
+   affiliation: 
+ - name: Eve Lee
+   orcid: 0000-0002-1228-9820
+   affiliation: 
+ - name: Greg Meece
+   orcid: 
+   affiliation: 3
+ - name: Michael L. Norman
+   orcid: 0000-0002-6622-8513
+   affiliation: "20, 23"
  - name: Jeffrey S. Oishi
    orcid: 0000-0001-8531-6570
    affiliation: 13
- - name: Iryna Butsky
-   orcid: 0000-0003-1257-5007
-   affiliation: 14
- - name: Nathan J. Goldbaum
-   orcid: 0000-0001-5557-267X
-   affiliation: 15
-- name: Matthew J. Turk
-   orcid: 0000-0002-5294-0198
-   affiliation: 15
-- name: Philipp Grete
-   orcid: 0000-0003-3555-9886
+ - name: Pascal Paschos
+   orcid: 
+   affiliation: 20
+ - name: Carolyn Peruta
+   orcid: 
+   affiliation: 3
+ - name: Alex Razoumov
+   orcid: 0000-0003-4392-6826
+   affiliation: 
+ - name: Daniel R. Reynolds
+   orcid: 0000-0002-0911-7841
+   affiliation: 26
+ - name: Devin Silvia
+   orcid: 0000-0002-4109-9313
    affiliation: 16
-- name: Elizabeth Tasker
+ - name: Samuel W. Skillman
+   orcid: 0000-0002-7626-522X
+   affiliation: 28
+ - name: Stephen Skory
+   orcid: 
+   affiliation: 30
+ - name: Geoffrey C So
+   orcid: 
+   affiliation: 20
+ - name: Elizabeth Tasker
    orcid: 0000-0001-6692-612X
    affiliation: 17
-- name: Ji-hoon Kim
-   orcid: 0000-0003-4464-1160
-   affiliation: 18
-- name: John Forbes
-   orcid: 0000-0002-1975-4449
-   affiliation: 19
-- name: Alexei G. Kritsuk
-   orcid: 0000-0002-6554-1161
+ - name: Rick Wagner
+   orcid: 0000-0003-1291-5876
    affiliation: 20
-- name: Christine M. Simpson
-   orcid: 0000-0001-9985-1814
-   affiliation: "21, 22"
-- name: 
+ - name: Peng Wang
    orcid: 
-   affiliation: 
-- name: 
+   affiliation: 24
+ - name: Hao Xu
    orcid: 
-   affiliation: 
-- name: 
+   affiliation: 20
+ - name: Fen Zhao
    orcid: 
-   affiliation: 
-- name: 
-   orcid: 
-   affiliation: 
-
+   affiliation: 24
 affiliations:
  - name: Dept. of Astronomy, Columbia University
  index: 1
@@ -132,14 +215,26 @@ affiliations:
  index: 21
   - name: Department of Astronomy & Astrophysics, The University of Chicago
  index: 22
-  - name: 
- index: 
-  - name: 
- index: 
-  - name: 
- index: 
-
-
+  - name: SDSC, University of California, San Diego
+ index: 23
+  - name: Kavli Institute for Particle Astrophysics and Cosmology, Stanford University
+ index: 24
+  - name: Department of Physics, Stanford University, Stanford
+ index: 25
+  - name: Department of Mathematics, Southern Methodist University
+ index: 26
+  - name: Department of Astrophysical Sciences, Princeton University
+ index: 27
+  - name: Descartes Labs
+ index: 28
+  - name: Theoretical Astrophysics Center, University of California Berkeley
+ index: 29
+  - name: OnSpot Data 
+ index: 30 
+  - name: Observatoire de la C'ote d'Azur
+ index: 31
+  - name: Max-Planck-Institut for Astrophysik
+ index: 32
 date: 2 August 2019
 bibliography: paper.bib
 ---
@@ -182,13 +277,15 @@ Enzo is used extensively in the astrophysics research community.  A few recent n
 
 The development of Enzo has been funded from a wide variety of sources.  The Enzo method paper [@EnzoMethodPaper2014] enumerates support through 2014.  Since then, Enzo development has been funded by 
 NASA grants NNX15AP39G (BWO),
-NNX17AG23G (JHW), NNX17AF87G (DCC)
+NNX17AG23G (JHW), NNX17AF87G (DCC),
+NNX15AB19G (GB)
 HST-AR-13261.01-A (BWO), 
 HST-AR-13895 (JHW), 
 HST-AR-14315.001-A (BWO), 
 HST-AR-14326 (JHW), 
 HST-AR-15012 (LC), 
 NSF grants AST-1333360 (JHW), 
+AST-1615955 (GB)
 AST-1514700 (BWO), 
 AST-1517908 (BWO, MSP, LC, JT), 
 AST-1614333 (JHW), 
@@ -200,12 +297,9 @@ ACI-1516003 (MLN),
 OAC-1810074,
 NSF Graduate Research Fellowship DGE 16-44869 (AE),
 the Blue Waters Graduate Fellowship, which was supported by NSF  grants No. OCI-0725070 and No. ACI-1238993 and the State of Illinois (IB, AE, FG),
-DOE grants ..., 
 Michigan State University internal funding (BWO), 
 the Los Alamos National Laboratory Institute for Geophysics and Planetary Physics (BWO),
-the Marie Skłodowska-Curie Grant – ‘SMARTSTARS’ – grant number
-699941 (JAR), 
-...
+the Marie Skłodowska-Curie Grant – ‘SMARTSTARS’ – grant number 699941 (JAR), 
 
 # References
  	
