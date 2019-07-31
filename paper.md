@@ -31,7 +31,7 @@ authors:
    affiliation: 15
  - name: Philipp Grete
    orcid: 0000-0003-3555-9886
-   affiliation: 16
+   affiliation: 3
 - name: Cameron B. Hummels
    orcid: 0000-0002-3817-8133
    affiliation: 8
@@ -52,7 +52,7 @@ authors:
    affiliation: 1
  - name: Brian O'Shea
    orcid: 0000-0002-2786-0348
-   affiliation: 3
+   affiliation: "3, 16"
  - name: Molly S. Peeples
    orcid: 0000-0003-1455-8788
    affiliation: "5, 7"
@@ -64,7 +64,7 @@ authors:
    affiliation: 1
  - name: Wolfram Schmidt
    orcid: 0000-0001-5233-8087
-   affiliation: Hamburg Observatory, University of Hamburg
+   affiliation: 33
  - name: Christine M. Simpson
    orcid: 0000-0001-9985-1814
    affiliation: "21, 22"
@@ -235,6 +235,8 @@ affiliations:
  index: 31
   - name: Max-Planck-Institut for Astrophysik
  index: 32
+  - name: Hamburg Observatory, University of Hamburg
+ index: 33
 date: 2 August 2019
 bibliography: paper.bib
 ---
