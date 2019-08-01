@@ -203,7 +203,7 @@ affiliations:
  index: 15
   - name: Department of Computational Mathematics, Science and Engineering, Michigan State University
  index: 16
-  - name: Japan Aerospace Exploration Agency
+  - name: Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency
  index: 17
   - name: Seoul National University, Korea
  index: 18
