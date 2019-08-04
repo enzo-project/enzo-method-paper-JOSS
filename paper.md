@@ -1,9 +1,9 @@
 ---
 title: 'ENZO: An Adaptive Mesh Refinement Code for Astrophysics (Version 2.6)'
 tags:
-  - adaptive mesh refinement
-  - astrophysics
-  - galaxy formation 
+ - adaptive mesh refinement
+ - astrophysics
+ - galaxy formation 
 authors:
  - name: Corey Brummel-Smith
    orcid: 0000-0001-6204-5181
@@ -102,28 +102,20 @@ authors:
    orcid: 0000-0001-9440-1152
    affiliation: 31
  - name: Robert Harkness
-   orcid:
    affiliation: 20
  - name: Elizabeth Harper-Clark
-   orcid:
    affiliation: 36
  - name: Shuo Kong
-   orcid:
    affiliation:
  - name: Alexei G. Kritsuk
    orcid: 0000-0002-6554-1161
    affiliation: 20
  - name: Michael Kuhlen
-   orcid: 
    affiliation: 29
  - name: James Larrue
-   orcid: 
-   affiliation: 
  - name: Eve Lee
    orcid: 0000-0002-1228-9820
-   affiliation: 
  - name: Greg Meece
-   orcid: 
    affiliation: 3
  - name: Michael L. Norman
    orcid: 0000-0002-6622-8513
@@ -132,10 +124,8 @@ authors:
    orcid: 0000-0001-8531-6570
    affiliation: 13
  - name: Pascal Paschos
-   orcid: 
    affiliation: 20
  - name: Carolyn Peruta
-   orcid: 
    affiliation: 3
  - name: Alex Razoumov
    orcid: 0000-0003-4392-6826
@@ -150,10 +140,8 @@ authors:
    orcid: 0000-0002-7626-522X
    affiliation: 28
  - name: Stephen Skory
-   orcid: 
    affiliation: 30
  - name: Geoffrey C So
-   orcid: 
    affiliation: 20
  - name: Elizabeth Tasker
    orcid: 0000-0001-6692-612X
@@ -162,13 +150,10 @@ authors:
    orcid: 0000-0003-1291-5876
    affiliation: 20
  - name: Peng Wang
-   orcid: 
    affiliation: 24
  - name: Hao Xu
-   orcid: 
    affiliation: 20
  - name: Fen Zhao
-   orcid: 
    affiliation: 24
 affiliations:
  - name: Dept. of Astronomy, Columbia University
@@ -201,7 +186,7 @@ affiliations:
  index: 14
    - name: School of Information Sciences, University of Illinois, Urbana-Champaign
  index: 15
-  - name: Department of Computational Mathematics, Science and Engineering, Michigan State University
+  - name: Department of Computational Mathematics, Science, and Engineering, Michigan State University
  index: 16
   - name: Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency
  index: 17
